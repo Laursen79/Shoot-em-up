@@ -12,3 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17319c747fe42da49be4e477b46c90df, type: 3}
   m_Name: New Item List
   m_EditorClassIdentifier: 
+  items:
+  - id: 0
+    name: Bone
+    image: {fileID: 21300000, guid: 5696d8d8fa5e5024fa642987cb0d9292, type: 3}
+    gameObject: {fileID: 919132149155446097, guid: 27ef81a7b8f40814d9f7d2a1fcb2d883, type: 3}
